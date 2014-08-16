@@ -1,4 +1,8 @@
-tweeping
+Tweeping
 ========
 
-WIP
+Twitter client for monitoring
+
+Work in progress
+
+
